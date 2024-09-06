@@ -1,0 +1,19 @@
+<!-- page1.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The First Time We Met</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>The First Time We Met</h1>
+        <p>Do you remember that day? The world seemed to stop when our eyes met...</p>
+        <p>[Describe a memory of when you first met]</p>
+        <a href="page2.html" class="btn">Continue</a>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
