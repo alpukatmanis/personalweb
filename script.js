@@ -2,7 +2,7 @@
 document.addEventListener('DOMContentLoaded', function() {
     const audio = document.createElement('audio');
     audio.loop = true;
-    audio.src = 123.mp3'; // Replace with your music file
+    audio.src = '123.mp3'; // Replace with your music file
 
     const audioControl = document.createElement('button');
     audioControl.textContent = 'Pause Music';
