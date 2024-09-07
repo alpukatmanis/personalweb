@@ -1,4 +1,3 @@
-<!-- script.js -->
 document.addEventListener('DOMContentLoaded', function() {
     const audio = document.getElementById('backgroundMusic');
     const audioControl = document.getElementById('audioControl');
